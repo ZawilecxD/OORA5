@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <sys/time.h>
 #include <time.h>
-#include "papi_fun.h"
-
+#include "papi_oora.h"
 int SIZE;
 static double gtod_ref_time_sec = 0.0;
 

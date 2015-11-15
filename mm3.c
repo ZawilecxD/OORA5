@@ -3,7 +3,7 @@
 #include <sys/time.h>
 #include <time.h>
 #include <stdbool.h>
-#include "papi_fun.h"
+#include "papi_oora.h"
 
 int SIZE;
 
